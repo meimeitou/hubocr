@@ -1,0 +1,7 @@
+#requirements.in
+autopep8
+yamllint
+pip-tools
+notebook
+easyocr
+jupyterlab
